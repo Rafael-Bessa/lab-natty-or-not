@@ -3,11 +3,11 @@
 Um vídeo educativo e envolvente sobre programação, onde a minha imagem e a minha voz autêntica são aprimoradas por IAs Generativas. O ChatGPT criou o conteúdo (roteiro), o ElevenLabs clonou e refinou minha voz para sincronia perfeita, e o HeyGen usou minha imagem para gerar um vídeo profissional com avatar (clone digital). O foco é na produção de conteúdo com qualidade de estúdio, mantendo a autenticidade do apresentador (Eu mesmo).
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT: Para a roteirização e elaboração de exemplos de código.
+IA Generativa **[ChatGPT](https://chat.openai.com)**: Para a roteirização e elaboração de exemplos de código.
 
-IA Generativa ElevenLabs: Para clonar a minha voz e gerar o áudio final do roteiro com entonação aprimorada e natural.
+IA Generativa **[ElevenLabs](https://elevenlabs.io)**: Para clonar a minha voz e gerar o áudio final do roteiro com entonação aprimorada e natural.
 
-IA Generativa HeyGen: Para criar o clone digital do apresentador (minha imagem) e sincronizá-lo com o áudio gerado pelo ElevenLabs.
+IA Generativa **[HeyGen](https://www.heygen.com)**: Para criar o clone digital do apresentador (minha imagem) e sincronizá-lo com o áudio gerado pelo ElevenLabs.
 
 Ferramenta de Edição de Vídeo (CapCut): Para retoques finais e adição de gráficos.
 
